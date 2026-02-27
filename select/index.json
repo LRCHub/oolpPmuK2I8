@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Come Together (Remastered 2009)",
+  "base_artist": "The Beatles",
+  "createdAt": "2026-02-27T10:13:20.995666Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Come Together - Remastered 2009",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/01_Come_Together_-_Remastered_2009_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Come Together (Remastered Version)",
+      "artist": "Eurythmics",
+      "has_synced": true,
+      "path": "select/02_Come_Together_(Remastered_Version)_Eurythmics.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Come Together (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/03_Come_Together_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Come Together - Remastered 2015",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/04_Come_Together_-_Remastered_2015_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Come Together [Remastered 2015]",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/05_Come_Together_[Remastered_2015]_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Come Together - Remastered",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/06_Come_Together_-_Remastered_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Come Together (Remastered 2015)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/07_Come_Together_(Remastered_2015)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Come Together - Remastered",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/08_Come_Together_-_Remastered_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Come Together (Remastered)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/09_Come_Together_(Remastered)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Come Together (Remastered 1994)",
+      "artist": "Ike & Tina Turner",
+      "has_synced": true,
+      "path": "select/10_Come_Together_(Remastered_1994)_Ike_&_Tina_Turner.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Come Together (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/11_Come_Together_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Come Together (Remastered)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/12_Come_Together_(Remastered)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Come Together (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/13_Come_Together_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Come Together",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/pl_01_Come_Together_The_Beatles.txt"
+    }
+  ]
+}
